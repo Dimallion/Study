@@ -36,3 +36,6 @@ C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\
 C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\TPU-Univer.RazorTargetAssemblyInfo.cs
 C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\TPU-Univer.Views.pdb
 C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\TPU-Univer.csproj.CopyComplete
+C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Deadspeaker\source\repos\TPU-Univer\TPU-Univer\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
