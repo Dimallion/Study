@@ -745,19 +745,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Deadspeaker\\.nuget\\packages\\": {}
+    "C:\\Users\\duski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deadspeaker\\source\\repos\\TPU-Univer\\TPU-Univer\\TPU-Univer.csproj",
+      "projectUniqueName": "C:\\Users\\duski\\source\\repos\\Study\\TPU-Univer\\TPU-Univer.csproj",
       "projectName": "TPU-Univer",
-      "projectPath": "C:\\Users\\Deadspeaker\\source\\repos\\TPU-Univer\\TPU-Univer\\TPU-Univer.csproj",
-      "packagesPath": "C:\\Users\\Deadspeaker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deadspeaker\\source\\repos\\TPU-Univer\\TPU-Univer\\obj\\",
+      "projectPath": "C:\\Users\\duski\\source\\repos\\Study\\TPU-Univer\\TPU-Univer.csproj",
+      "packagesPath": "C:\\Users\\duski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\duski\\source\\repos\\Study\\TPU-Univer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Deadspeaker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\duski\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
