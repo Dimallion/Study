@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Web.Mvc;
 using TPU_Univer.Data.Interfaces;
+using TPU_Univer.ViewModels;
 
 namespace TPU_Univer.Controllers
 {
@@ -20,8 +22,11 @@ namespace TPU_Univer.Controllers
 
         public ViewResult List()
         {
-            var cars = _allCars.Cars;
-            return View(cars);
+            ViewBag.Title = "Страница с автомобилями";
+            CarListViewModel obj = new CarListViewModel();
+            obj.getAllCars = _allCars.Cars;
+            obj.currCategory = "Automobiles";
+            return View(obj);
 
         }
     }

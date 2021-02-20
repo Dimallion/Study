@@ -16,8 +16,20 @@ namespace TPU_Univer.Data.Mocks
                 {
                     new Car
                     {
-                        name = "Tesla", shortDesk = "", longDesk = "", price = 45000, img = "", isFavourite = true, available = true, Category = _categoryCars.AllCategories.First()
-                    }
+                        name = "Tesla", shortDesk = "", longDesk = "", price = 45000, img = "~/img/Chun.jpg", isFavourite = true, available = true, Category = _categoryCars.AllCategories.First()
+                    },
+                new Car
+                {
+                    name = "Bear", shortDesk = "", longDesk = "", price = 45000, img = "~/img/third.jpg", isFavourite = true, available = true, Category = _categoryCars.AllCategories.First()
+                },
+                new Car
+                {
+                    name = "Mountain", shortDesk = "", longDesk = "", price = 45000, img = "~/img/second.jpg", isFavourite = true, available = true, Category = _categoryCars.AllCategories.First()
+                },
+                new Car
+                {
+                    name = "Commi", shortDesk = "", longDesk = "", price = 45000, img = "~/img/commi.jpg", isFavourite = true, available = true, Category = _categoryCars.AllCategories.First()
+                },
             };
         }
 }
